@@ -1,0 +1,168 @@
+body{
+  background:#f4f4f4;
+}
+
+/* Custom */
+.main-color-bg{
+  background-color: #347AB6 !important;
+  color:#ffffff !important;
+  height: 49px;
+}
+
+/* Header */
+#header{
+  background:#333333;
+  color:#ffffff;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+#header .create{
+  padding-top: 20px;
+}
+
+/* Breadcrumb */
+.breadcrumb{
+  background:#cccccc;
+  color:#333333;
+}
+#breadcrumb{
+  padding-top: 2%;
+}
+
+.breadcrumb a{
+  color:#333333;
+}
+
+/* Progress Bars */
+.progress-bar{
+  background:#333333;
+  color:#ffffff;
+}
+
+.dash-box{
+  text-align:center;
+}
+
+.ui{
+  margin-bottom: 11%;
+}
+
+
+#login{
+  margin-top:30px;
+}
+
+/* Footer */
+#footer{
+  position:absolute;
+  width: 100%;
+  bottom: 0;
+
+  background:#333333;
+  color:#ffffff;
+  text-align:center;
+  padding:10px;
+  margin-top:30px;
+}
+
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+.card-title{
+  font-family: Nunito,sans-serif;
+  font-size: 1.1rem;
+}
+
+.bottom{
+  margin-bottom: 10%;
+}
+
+.last-bottom{
+  margin-bottom: 10%;
+}
+
+.btn{
+  display: inline-block;
+}
+
+.card-img{
+height: 19em;
+}
+
+.left-menu{
+  color: #ffffff;
+}
+
+.left-menu:hover {
+  color: #ffffff;
+}
+
+.left-menu:visited {
+  color: #ffffff;
+}
+
+.img-thumbnail{
+  width: 100%;
+}
+
+.ge{
+  margin-bottom: 3%;
+}
+.display{
+  display: none;
+}
+.overlay{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #347AB6;
+}
+
+.image{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.img_wrapper{
+  position: relative;
+}
+
+.img_wrapper:hover .overlay {
+  opacity: 1;
+}
+
+.text{
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.append{
+  position: inherit;
+    margin-left: 9%;
+    margin-right: 7%;
+}
+
+button.btn.btn-outline-secondary{
+  border: 1px solid #ced4da;
+}
+
+.modal-dialog{
+  max-width: 50vw !important;
+}
