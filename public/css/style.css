@@ -2,6 +2,14 @@ body{
   background:#f4f4f4;
 }
 
+.middles{
+  width: 60%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
 /* Custom */
 .main-color-bg{
   background-color: #347AB6 !important;
@@ -68,7 +76,9 @@ body{
 
 #page-container {
   position: relative;
-  min-height: 100vh;
+  min-height: 94vh;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(167,124,204,1) 53%, rgba(60,95,102,1) 100%);
 }
 
 .card-title{

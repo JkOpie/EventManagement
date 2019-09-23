@@ -31,8 +31,8 @@
     <div class="row" style="margin-bottom:1%">
       <div class="col-md-6 col-sm-12">
         <div class="bgmig text-center">
-          <h1>Event Happening In</h1>
-          <hr style="margin: auto;width: 100%;border: 1.5px solid #000000; width:30%">
+          <h1 id="time">Event Happening In</h1>
+          <hr id="time2" style="margin: auto;width: 100%;border: 1.5px solid #000000; width:30%">
           <p id="demo" style="font-size: 2rem"></p>
 
         </div>
@@ -150,6 +150,7 @@
 
     if(distance<0){
       clearInterval(countDownFunction);
+      document.getElementById("time").innerHTML = "";
       document.getElementById("demo").innerHTML = "EXPIRED";
     }
   },1000);
