@@ -18,7 +18,7 @@
     <script type="text/javascript" src="{{ asset('fontawesome-free/js/fontawesome.min.js') }}"> </script> <!--fontawesome -->
     <link href="{{ asset('fontawesome-free/css/all.css') }}" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script> <!--sweetalert2 -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBHTB6sd-BWaA9dvXutGs2nJ1q8el4F-VI&libraries=places" ></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDUC43VP22QyfNP-JVfXQJ4uj5XTYkUH_0&libraries=places" ></script>
 
     <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
 

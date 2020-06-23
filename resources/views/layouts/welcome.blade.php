@@ -16,7 +16,7 @@
         <script src="{{ asset('js/app.js') }}" defer></script>
         <link href="{{ asset('fontawesome-free/css/all.css') }}" rel="stylesheet">
         <script src="https://unpkg.com/scrollreveal"></script>
-        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBHTB6sd-BWaA9dvXutGs2nJ1q8el4F-VI&libraries=places" ></script>
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDUC43VP22QyfNP-JVfXQJ4uj5XTYkUH_0&libraries=places" ></script>
     </head>
     <body>
         <nav class="navbar navbar-expand-lg navbar-light bg-light shadow fixed-top" >
