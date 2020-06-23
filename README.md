@@ -15,7 +15,7 @@ This project is an Running Event Web-based System develop using `Laravel` and `G
 ## Use of Google Maps API in the project
 
 <video width="320" height="240" autoplay>
-  <source src="" type="video/mp4">
+  <source src="https://github.com/JkOpie/EventManagement/blob/master/public/img/project/New%20Project.mp4" type="video/mp4">
 </video>
 
 
