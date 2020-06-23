@@ -16,5 +16,6 @@ This project is an Running Event Web-based System develop using `Laravel` and `G
 
 # Picture of the Project
 
-![Image of Yaktocat](https://github.com/JkOpie/EventManagement/blob/master/public/img/maraton.jpg)
+<img src="https://github.com/JkOpie/EventManagement/blob/master/public/img/maraton.jpg" width="200">
+
 
