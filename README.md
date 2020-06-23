@@ -14,6 +14,9 @@ This project is an Running Event Web-based System develop using `Laravel` and `G
 
 ## Pages of the project
 
+
 <img src="https://github.com/JkOpie/EventManagement/blob/master/public/img/project/login.PNG" width="30%"></img> <img src="https://github.com/JkOpie/EventManagement/blob/master/public/img/project/Register.PNG" width="30%"></img> <img src="https://github.com/JkOpie/EventManagement/blob/master/public/img/project/MainPage.png" width="30%"></img> <img src="" width="30%"></img>
+
+
 
 
